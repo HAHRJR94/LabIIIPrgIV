@@ -1,0 +1,14 @@
+{
+  "name": "tareasemanaiii",
+  "version": "1.0.0",
+  "description": "laboratoriIIIPrgIV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HectorHenriquez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
